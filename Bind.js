@@ -33,3 +33,4 @@ run (mouse.sayHi.bind(mouse))
 //call back này chính là function say hi của mouse
 //nếu không được bind vào mouse/ cat => kết quả sẽ là undefined
 //nếu được bind vào mouse ỏ cat // kết quả sẽ được như chạy chương trình
+// bind sex tra ve 1 function
