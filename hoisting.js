@@ -6,3 +6,5 @@ console.log (a) //2
 // thì sẽ trả về result là undefined vì JS thực hiện lệnh từ trên xuống và không thấy define của a trước lệnh console
 // var a =3
 //vì vậy ta sử 
+
+
