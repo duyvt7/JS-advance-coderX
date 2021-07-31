@@ -36,6 +36,7 @@ var mouse = {
         }//.bind(mouse)
         run2.bind(this)() // this ở đây chỉ obj mouse
         //nếu không có bind thì this ở đây có giá trị như 1 function scope
+        //this ở đây (nếu không có bind đang là 1 global context)
         //this chỉ có giá trị chỉ run2 chứ không chỉ Obj mouse
     },
 
