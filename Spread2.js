@@ -9,3 +9,9 @@ const obj2 = {
     z:1000
 }
 console.log(obj2)
+
+let obj3 = {}
+for (let i in obj1){
+    obj3[i] = obj1 [i]
+}
+console.log(obj3)
